@@ -1,15 +1,30 @@
 {
-  "repository": "https://github.com/Thiago03125/manifest",
+  "repository": "https://raw.githubusercontent.com/TU_USUARIO/minecraft-instances/main",
   "version": "1.0.0",
   "instances": [
     {
-      "key": "BOMB-ILUPHANY-CORE-2025",
-      "name": "Bomb party",
-      "description": "Instancia de bomb party evento de Iluphany 2025",
-      "configUrl": "config.json",
-      "backgroundUrl": "bomb-party/backround.png",
-      "thumbnailUrl": "bomb-party/thumbnail.png"
+      "key": "PVPH-ARDE-CORE-2024",
+      "name": "PvP Hardcore",
+      "description": "Optimizado para combate PvP",
+      "configUrl": "instances/PVPH-ARDE-CORE-2024/config.json",
+      "backgroundUrl": "instances/PVPH-ARDE-CORE-2024/background.png",
+      "thumbnailUrl": "instances/PVPH-ARDE-CORE-2024/thumbnail.png"
+    },
+    {
+      "key": "SURV-IVAL-PACK-2024",
+      "name": "Survival Mejorado",
+      "description": "Supervivencia con mejoras visuales",
+      "configUrl": "instances/SURV-IVAL-PACK-2024/config.json",
+      "backgroundUrl": "instances/SURV-IVAL-PACK-2024/background.png",
+      "thumbnailUrl": "instances/SURV-IVAL-PACK-2024/thumbnail.png"
+    },
+    {
+      "key": "CREA-TIVE-MODE-2024",
+      "name": "Creative Plus",
+      "description": "Construcción con shaders",
+      "configUrl": "instances/CREA-TIVE-MODE-2024/config.json",
+      "backgroundUrl": "instances/CREA-TIVE-MODE-2024/background.png",
+      "thumbnailUrl": "instances/CREA-TIVE-MODE-2024/thumbnail.png"
     }
-
-    ]
+  ]
 }
